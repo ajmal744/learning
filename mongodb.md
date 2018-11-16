@@ -15,3 +15,8 @@ WriteConflicts https://muralidba.blogspot.com/2018/03/what-are-writeconflicts-in
 
 Need to implement application level optimistic concurrency as it not supported. https://github.com/mikeckennedy/optimistic_concurrency_mongodb_dotnet/blob/master/src/MongoDB.Kennedy/ConcurrentDataContext.cs
 
+
+Concurrency control in MongoDB 3.0
+
+https://www.mongodb.com/presentations/concurrency-control-in-mongodb-3-0
+
