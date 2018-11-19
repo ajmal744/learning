@@ -19,4 +19,5 @@ Need to implement application level optimistic concurrency as it not supported. 
 Concurrency control in MongoDB 3.0
 
 https://www.mongodb.com/presentations/concurrency-control-in-mongodb-3-0
+https://channel9.msdn.com/Blogs/raw-tech/Understanding-Concurrency-a-whiteboard-session-with-Nuri-Halprin
 
