@@ -1,1 +1,5 @@
 Video for Service Bus https://azure.microsoft.com/en-us/resources/videos/build-2018-azure-messaging-and-event-based-architecture-in-the-real-world-lessons-learned-rebuilding-microsoft-s-supply-chain-on-azure-serverless/
+
+
+Saga pattern with Step function
+https://theburningmonk.com/2017/07/applying-the-saga-pattern-with-aws-lambda-and-step-functions/
