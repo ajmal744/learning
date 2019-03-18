@@ -3,3 +3,7 @@ Video for Service Bus https://azure.microsoft.com/en-us/resources/videos/build-2
 
 Saga pattern with Step function
 https://theburningmonk.com/2017/07/applying-the-saga-pattern-with-aws-lambda-and-step-functions/
+
+Azure Events Hub versus Service Bus
+http://microsoftintegration.guru/2015/03/03/azure-event-hubs-vs-azure-messaging/
+
